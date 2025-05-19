@@ -1,0 +1,8 @@
+auto_mix_prep
+Django
+httplib2
+model
+pytest
+pytest_mock
+simplejson
+six
